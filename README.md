@@ -1,5 +1,5 @@
-# hello-world
-My Hello World repo
+# Javascript Essential
+My Javascript Essential repo
 
 
 Hello....
