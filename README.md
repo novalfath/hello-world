@@ -10,3 +10,5 @@ This is my first Github Editing
 add index.html and myapp.js
 
 add function makeCoffee
+
+add embedding objects & arrays
